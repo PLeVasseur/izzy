@@ -1,3 +1,5 @@
+mod kinematics_models;
+
 #[cfg(test)]
 mod tests {
     #[test]
